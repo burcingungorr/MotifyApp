@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1033715459238",
+    "project_id": "todogame-69e80",
+    "storage_bucket": "todogame-69e80.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033715459238:android:39b5966783acff57c18067",
+        "android_client_info": {
+          "package_name": "com.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPO9OtR5Kh2z8utTDwGa5Vt8VGF8blD-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
